@@ -21,8 +21,8 @@ var jumlahMakan = 0;
 
 var geserBaris = 0;
 var geserKolom = 1;
-var terakhirKolom = 0;
-var terakhirBaris = 1;
+var terakhirBaris = 0;
+var terakhirKolom = 1;
 
 var pewaktu = null;
 
